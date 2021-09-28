@@ -43,10 +43,10 @@
     }
   },
   "assets": {
-  	"logo": {
-		  "large": "https://via.placeholder.com/800x480",
-		  "medium": "https://via.placeholder.com/400x240",
-		  "small": "https://via.placeholder.com/200x120"
-	  }
+    "logo": {
+      "large": "https://via.placeholder.com/800x480",
+      "medium": "https://via.placeholder.com/400x240",
+      "small": "https://via.placeholder.com/200x120"
+    }
   }
 }
