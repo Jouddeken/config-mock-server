@@ -1,0 +1,52 @@
+{
+  "fonts": {
+    "file": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,700;0,800;1,300;1,400;1,700;1,800&display=swap",
+    "body": "\"Open Sans\", sans-serif",
+    "heading": "\"Montserrat\", sans-serif"
+  },
+  "colors": {
+    "primary": {
+      "50": "#e6f0ff",
+      "100": "#cce0ff",
+      "200": "#99c2ff",
+      "300": "#66a3ff",
+      "400": "#3385ff",
+      "500": "#0066ff",
+      "600": "#0052cc",
+      "700": "#003d99",
+      "800": "#002966",
+      "900": "#001433"
+    },
+    "secondary": {
+      "50": "#e7e8ec",
+      "100": "#ced2da",
+      "200": "#9da4b5",
+      "300": "#54607d",
+      "400": "#3b496a",
+      "500": "#0a1c45",
+      "600": "#081637",
+      "700": "#061129",
+      "800": "#040b1c",
+      "900": "#02060e"
+    },
+    "tertiary": {
+      "50": "#ffe9ef",
+      "100": "#ffd3de",
+      "200": "#ffa6be",
+      "300": "#ff7a9d",
+      "400": "#ff4d7d",
+      "500": "#ff215c",
+      "600": "#cc1a4a",
+      "700": "#991437",
+      "800": "#660d25",
+      "900": "#330712"
+    }
+  },
+  "assets": {
+  	"logo": {
+		  "large": "https://via.placeholder.com/800x480",
+		  "medium": "https://via.placeholder.com/400x240",
+		  "small": "https://via.placeholder.com/200x120"
+	  }
+  }
+}
